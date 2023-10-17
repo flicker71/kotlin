@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "myBlockNote"
+rootProject.name = "My Application"
 include(":app")
  

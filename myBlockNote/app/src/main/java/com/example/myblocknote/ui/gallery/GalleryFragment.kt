@@ -1,4 +1,4 @@
-package com.example.myblocknote.ui.gallery
+package com.example.myapplication.ui.gallery
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.myblocknote.databinding.FragmentGalleryBinding
+import com.example.myapplication.databinding.FragmentGalleryBinding
 
 class GalleryFragment : Fragment() {
 

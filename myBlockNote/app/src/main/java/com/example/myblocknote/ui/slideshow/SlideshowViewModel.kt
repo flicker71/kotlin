@@ -1,4 +1,4 @@
-package com.example.myblocknote.ui.slideshow
+package com.example.myapplication.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
